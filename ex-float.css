@@ -1,0 +1,39 @@
+#antet{
+	background-color: pink;
+	width: 800px;
+	height: 450px;
+	display: block;
+	margin: 50px auto;
+}
+#patrat1{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	
+}
+#patrat2{
+	width: 150px;
+	height: 150px;
+	background-color: yellow;
+		
+}
+#patrat3{
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+	clear: right;
+	
+	
+	
+}
+#patrat4{
+	width: 150px;
+	height: 150px;
+	background-color: green;
+}
+h1{
+	text-align: center;
+}
+ul{display: inline-block;
+}
+
